@@ -35,7 +35,7 @@
   <a href="https://solved.ac/nyoung0215">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyoung0215">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=inyoung0215&show_icons=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=inyoung0215&show_icons=true" width="48%">
 </p>
 
 
