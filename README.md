@@ -29,13 +29,29 @@
   <a href="https://velog.io/@nyoung215/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@nyoung215/posts"/></a>&nbsp
   <a href="mailto:hinyoung0215@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hinyoung0215@gmail.com"/></a>
 </p>
-  <br> </br>
+<br>
 
 <p align="center">
   <a href="https://solved.ac/nyoung0215">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nyoung0215">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=inyoung0215&show_icons=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inyoung0215&show_icons=true">
+</p>
+
+<p align="center">
+  <a href="https://github.com/inyoung0215/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inyoung0215&layout=compact">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://velog.io/@nyoung215/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=nyoung215&color=white">
+  </a>
 </p>
 
 
