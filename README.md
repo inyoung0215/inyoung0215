@@ -37,19 +37,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/inyoung0215/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inyoung0215&layout=compact" style="max-width: 48%;">
-  </a>
-  <a href="https://velog.io/@nyoung215/posts">
-    <img src="https://velog-readme-stats.vercel.app/api?name=nyoung215&color=white" style="max-width: 48%;">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inyoung0215&show_icons=true">
-</p>
-
 <!--
 **inyoung0215/inyoung0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
