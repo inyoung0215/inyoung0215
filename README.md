@@ -1,5 +1,8 @@
-![git](https://github.com/inyoung0215/inyoung0215/assets/86757234/a0b0706a-ca2c-4d32-b812-22d8faa134df)
+![배경1](https://github.com/inyoung0215/inyoung0215/assets/86757234/31a00931-b8a0-45cc-bbf1-42172a52ddab)
 
+<h1 align="center">✋ Hi nyoung's Git </h1>
+<p align="center">사용자 경험을 고려한 솔루션을 구현하는 백엔드 개발자 황인영입니다.</p>
+<br>
 
 <h2 align="center">📚 Tech Stack 📚</h2>
 <p align="center">
